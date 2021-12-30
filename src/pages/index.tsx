@@ -11,7 +11,7 @@ interface HomeProps {
     amount: string
   }
 }
-
+//main
 export default function Home({ product }: HomeProps) {
   return (
     <>
